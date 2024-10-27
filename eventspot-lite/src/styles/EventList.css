@@ -81,6 +81,33 @@
   font-size: 1rem;
   color: #666;
 }
+/* Event Card Animation */
+.event-card {
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.event-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Disable hover animations on mobile */
+@media (max-width: 768px) {
+  .event-card:hover {
+    transform: none;
+    box-shadow: none;
+  }
+}
+
+/* Force GPU rendering for smoother animations */
+.event-card {
+  transform: translateZ(0); /* This forces GPU rendering */
+}
 
 /* Responsive Design */
 @media (max-width: 1024px) {
