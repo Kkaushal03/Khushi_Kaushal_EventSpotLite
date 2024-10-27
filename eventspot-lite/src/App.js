@@ -41,6 +41,9 @@ const App = () => {
         <source src="/videos/v1.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
+  
+{/* Fallback Background Image for Mobile */}
+<div className="bg-image"></div>
 
       {/* Content */}
       <div className="content">
