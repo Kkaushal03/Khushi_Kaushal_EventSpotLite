@@ -42,12 +42,6 @@ const App = () => {
         Your browser does not support the video tag.
       </video>
   
-{/* Fallback Background Image for Mobile */}
-<div className="bg-image"></div>
-<picture>
-    <source media="(max-width: 768px)" srcSet="/images/fallback-mobile.jpg" />
-    <img src="/images/fallback.jpg" alt="Fallback background image" />
-  </picture>
 
       {/* Content */}
       <div className="content">
