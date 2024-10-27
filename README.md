@@ -15,9 +15,8 @@ https://khushi-kaushal-event-spot-lite-ut8c.vercel.app/
 ## video
  Desktop View
 https://github.com/user-attachments/assets/f8991f1a-d158-4135-8947-a5dfb1fff33b
-
-
 Mobile View
+
 https://github.com/user-attachments/assets/c004416c-5164-42b2-9d08-f81693a74f40
 
 
