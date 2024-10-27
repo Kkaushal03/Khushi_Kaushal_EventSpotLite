@@ -1,0 +1,43 @@
+const mockEvents = [
+  { id: 1, 
+    name: 'Code Nights',
+     date: '2024-10-25',
+      location: 'Mumbai', 
+      image: '/photos/CodeNights.jpg',
+      description: 'A technology conference.' 
+    },
+  { id: 2, 
+    name: 'EMarathon',
+     date: '2024-10-26', 
+     location: 'Pune',
+     image: '/photos/2.jpg',
+      description: 'An amazing Sport Event.'
+     },
+  { id: 3, 
+    name: 'Rangrezz', 
+    date: '2024-11-01',
+     location: 'New Delhi', 
+     image:'/photos/HoliFest.jpg',
+     description: 'A festival of gourmet food.'
+     },
+  { id: 4, 
+    name: 'Photoshopss',
+     date: '2024-11-05', 
+     location: 'Hyderabad', 
+     image:'/photos/LaughterClub.jpg',
+     description: 'Watch shoots from around the hall' },
+  { id: 5, 
+    name: 'Film Festival',
+     date: '2024-11-10', 
+     location: 'Mumbai',
+     image:'/photos/3.jpg',
+      description: 'Watch indie films from around the world' },
+  { id: 6,
+    name: 'The Art of Living',
+    date: '2024-11-15',
+     location: 'Chandigarh',
+     image:'/photos/TheArtofLiving.jpg',
+      description: 'A masterclass of Living ' },
+];
+
+export default mockEvents;
