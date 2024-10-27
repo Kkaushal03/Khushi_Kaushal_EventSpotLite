@@ -121,15 +121,6 @@ h2 {
   z-index: -1; 
 }
 
-@media (max-width: 768px) {
-  .bg-video {
-    display: none; /* Hide the video on mobile */
-  }
-
-  picture img {
-    display: block; /* Show the fallback image on mobile */
-  }
-}
 
 /* Loading Spinner */
 .spinner {
