@@ -29,7 +29,7 @@ To get started with EventSpot Lite locally, follow these steps:
    cd eventspot-lite
    npm install
    npm start
-   ![image](https://github.com/user-attachments/assets/2f9046e3-be05-4af3-a0e7-3560e03a59ad)
+   
 ## Snapshots
 ![image](https://github.com/user-attachments/assets/c2a77341-c154-40d8-9d60-ba4a29dcf1cb)
 Search Functionality
