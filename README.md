@@ -3,18 +3,7 @@
 
 EventSpot Lite is a responsive single-page web application designed to showcase and explore events. This application features a clean UI with smooth animations and a mobile-friendly interface, making it easy for users to find events and get in touch.
 
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Setup Instructions](#setup-instructions)
-- [Responsive Design](#responsive-design)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
-
 - **Responsive Design**: The application is fully responsive, adapting seamlessly to various screen sizes.
 - **Modal Transitions**: Smooth fade-in and fade-out effects when modals open and close.
 - **Navigation Menu**: Collapses into a hamburger menu on mobile devices for easier access.
@@ -22,10 +11,10 @@ EventSpot Lite is a responsive single-page web application designed to showcase 
 - **Interactive UI**: Engaging user interface with animations and transitions for a better user experience.
 
 ## Technologies Used
-
 - **Frontend**: 
   - React
   - CSS (with custom styles)
+  - Javascript
   
 - **Deployment**:
   - [Deployment platform:  Vercel]
@@ -40,3 +29,14 @@ To get started with EventSpot Lite locally, follow these steps:
    cd eventspot-lite
    npm install
    npm start
+   ![image](https://github.com/user-attachments/assets/2f9046e3-be05-4af3-a0e7-3560e03a59ad)
+## Snapshots
+![image](https://github.com/user-attachments/assets/3fbda035-47df-4f99-bc34-6bdea2cb7917)
+![image](https://github.com/user-attachments/assets/c2f1d7ff-8e43-4288-8eaf-eae995babcfe)
+![image](https://github.com/user-attachments/assets/c3f129b0-6695-459e-8c6e-bedca9380218)
+![image](https://github.com/user-attachments/assets/796f571b-3c12-4043-a91b-1467d0af3d71)
+![image](https://github.com/user-attachments/assets/9a551743-30e1-49cd-8587-f870e95b5c59)
+When opening on mobile the navbar becomes menu icon
+![image](https://github.com/user-attachments/assets/45f3bc0b-b69f-4d3c-a572-7b157406fdd3)
+![image](https://github.com/user-attachments/assets/ca2d0b15-2ad3-4bb1-ba95-9800a6e36a31)
+
