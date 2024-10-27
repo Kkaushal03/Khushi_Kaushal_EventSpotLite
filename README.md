@@ -2,6 +2,8 @@
 
 
 EventSpot Lite is a responsive single-page web application designed to showcase and explore events. This application features a clean UI with smooth animations and a mobile-friendly interface, making it easy for users to find events and get in touch.
+## Project Link -
+https://khushi-kaushal-event-spot-lite-ut8c.vercel.app/
 
 ## Features
 - **Responsive Design**: The application is fully responsive, adapting seamlessly to various screen sizes.
