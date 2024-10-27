@@ -37,7 +37,7 @@ const App = () => {
   return (
     <div className="app-container">
       {/* Background Video */}
-      <video className="bg-video" autoPlay loop muted>
+      <video className="bg-video" autoPlay loop muted playsInline>
         <source src="/videos/v1.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
@@ -49,6 +49,7 @@ const App = () => {
         {loading ? (
           <div className="spinner"></div>
         ) : (
+           
           <>
             {/* Search Bar Section */}
             <section id="search-section" className="search-section">
