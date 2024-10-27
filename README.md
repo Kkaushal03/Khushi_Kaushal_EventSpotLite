@@ -9,6 +9,7 @@ EventSpot Lite is a responsive single-page web application designed to showcase 
 - **Navigation Menu**: Collapses into a hamburger menu on mobile devices for easier access.
 - **Scroll Navigation**: Smooth scrolling to different sections of the page.
 - **Interactive UI**: Engaging user interface with animations and transitions for a better user experience.
+## video
 
 ## Technologies Used
 - **Frontend**: 
