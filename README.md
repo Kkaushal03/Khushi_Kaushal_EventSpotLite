@@ -18,6 +18,9 @@ https://github.com/user-attachments/assets/f8991f1a-d158-4135-8947-a5dfb1fff33b
 Mobile View
 
 
+https://github.com/user-attachments/assets/5981b50d-0f1b-44f4-a15f-230646fbe63b
+
+
 
 
 ## Technologies Used
